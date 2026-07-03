@@ -1,0 +1,6 @@
+/vendor
+/.phpunit.cache
+/.pest
+/coverage
+/composer.lock
+.DS_Store

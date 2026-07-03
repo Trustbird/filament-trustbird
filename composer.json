@@ -3,14 +3,7 @@
     "description": "Optional Filament admin panel for Trustbird's Laravel core package.",
     "license": "MIT",
     "type": "library",
-    "keywords": [
-        "trustbird",
-        "filament",
-        "laravel",
-        "isms",
-        "grc",
-        "compliance"
-    ],
+    "keywords": ["trustbird", "filament", "laravel", "isms", "grc", "compliance"],
     "homepage": "https://github.com/Trustbird/filament-trustbird",
     "support": {
         "issues": "https://github.com/Trustbird/filament-trustbird/issues",
@@ -27,10 +20,10 @@
     "require-dev": {
         "larastan/larastan": "^3.0",
         "laravel/pint": "1.25.1",
-        "orchestra/testbench": "^9.0|^10.0|^11.0",
+        "orchestra/testbench": "^10.0|^11.0",
         "pestphp/pest": "^4.0",
         "pestphp/pest-plugin-laravel": "^4.0",
-        "phpstan/extension-installer": "^1.1",
+        "phpstan/extension-installer": "^1.4",
         "phpstan/phpstan": "^2.1"
     },
     "autoload": {

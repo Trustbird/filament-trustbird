@@ -1,0 +1,8 @@
+* text=auto
+*.blade.php diff=html
+CHANGELOG.md export-ignore
+.github export-ignore
+tests export-ignore
+phpstan.neon.dist export-ignore
+phpunit.xml.dist export-ignore
+pint.json export-ignore

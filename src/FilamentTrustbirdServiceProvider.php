@@ -13,7 +13,6 @@ final class FilamentTrustbirdServiceProvider extends PackageServiceProvider
     {
         $package
             ->name('filament-trustbird')
-            ->hasConfigFile()
             ->hasViews();
     }
 }
