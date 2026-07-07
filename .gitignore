@@ -1,6 +1,8 @@
 /vendor
 /.phpunit.cache
 /.pest
+/.junie
+/.idea
 /coverage
 /composer.lock
 .DS_Store
